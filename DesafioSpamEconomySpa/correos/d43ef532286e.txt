@@ -1,0 +1,8 @@
+<p>cuerpo finald el correo</p> 
+    
+    <p>El valor del dolar el dia de hoy es: 798.01</p>
+    <p>El valor del euro el dia de hoy es: 894.23</p>
+    <p>El valor del uf el dia de hoy es: 31552.64</p>
+    <p>El valor del utm el dia de hoy es: 55537</p>
+
+    
